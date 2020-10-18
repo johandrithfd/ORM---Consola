@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\spayd\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\spayd\\.nuget\\packages"
+    ]
+  }
+}
